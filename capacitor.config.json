@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "expoORAN2024",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}
